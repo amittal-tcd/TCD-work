@@ -1,20 +1,21 @@
 Name: Nishant Mohan
 Student ID: 19300436
 Contribution: 
-Worked on the documentation, contributed in writing introduction and literature review.
-Wrote results and discussions with conclusion.
-Arranged the references.
-Formatted the report in research paper format as given.
+- Literature Review and Research
+- Wrote the introduction, parts of methodology and conclusions
+- Designed and coded the ledger update and forecasting mechanisms
 
 Name: Abhishek Verma
 Student ID: 19301791
 Contribution:
-Contributed in writing introduction amd literature review.
-Worked on an alternative approach of algorithms.
-Visualized the summary of results obtained from different algorithms . 
+- Literature Review and Research
+- Wrote the literature review, conclusion and evaluation for scenario 3 and 4
+- Designed and coded the algorithms for scenario 3 and 4 and data sourcing for stocks
 
 
 Name: Adhishwar Singh Mittal
 Student ID: 19300379
 Contribution:
-Coded EVERYTHING.
+- Literature Review and Research
+- Wrote abstract, parts of methodology and evaluation of scenario 1 and 2
+- Designed and coded the algorithms for scenario 1 and 2 and visualization
