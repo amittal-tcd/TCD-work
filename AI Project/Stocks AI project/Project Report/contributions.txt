@@ -11,6 +11,8 @@ Student ID: 19301791
 Contribution:
 Contributed in writing introduction amd literature review.
 Worked on an alternative approach of algorithms.
+Visualized the summary of results obtained from different algorithms . 
+
 
 Name: Adhishwar Singh Mittal
 Student ID: 19300379
