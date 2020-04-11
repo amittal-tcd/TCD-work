@@ -10,8 +10,9 @@ Name: Abhishek Verma
 Student ID: 19301791
 Contribution:
 Contributed in writing introduction amd literature review.
+Worked on an alternative approach of algorithms.
 
 Name: Adhishwar Singh Mittal
 Student ID: 19300379
 Contribution:
-
+Coded EVERYTHING.
