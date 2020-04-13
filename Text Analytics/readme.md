@@ -15,7 +15,7 @@ This step consists of undertsanding the model predictions to explain the predict
 
 ## Model Results
 
-1. The model has an AUC of 0.71
+1. The model has an AUC of 0.71    
 ![Model ROC](https://github.com/amittal-tcd/TCD-work/blob/master/Text%20Analytics/Step2%20-%20Model%20Improvement%20and%20Feature%20Importances/Results/ROC.png)
 
 2. The model has a precision of 0.81 and a recall of 0.96
