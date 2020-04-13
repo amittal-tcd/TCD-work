@@ -12,3 +12,17 @@ The folder consists of 2 folders:
 We conduct a primary test to prove that the text of the reviews hold valid correlation with the text being written on a weekend or weekday. A permutation test is used to rank model accuracy from a permutation of randomly distributed labels. 
 2. Model Evaluation and Explanation:
 This step consists of undertsanding the model predictions to explain the predictability through text.
+
+## Model Results
+
+1. The model has an AUC of 0.71
+![Model ROC](https://github.com/amittal-tcd/TCD-work/blob/master/Text%20Analytics/Step2%20-%20Model%20Improvement%20and%20Feature%20Importances/Results/ROC.png)
+
+2. The model has a precision of 0.81 and a recall of 0.96
+![Model Confusion Matrix](https://github.com/amittal-tcd/TCD-work/blob/master/Text%20Analytics/Step2%20-%20Model%20Improvement%20and%20Feature%20Importances/Results/Confusion%20Matrix.png)
+
+3. The most important features are as shown below
+![Model Feature Importances](https://github.com/amittal-tcd/TCD-work/blob/master/Text%20Analytics/Step2%20-%20Model%20Improvement%20and%20Feature%20Importances/Results/LGBMImportances.JPG)
+
+4. Model is explained using SHAP values as shown by the summary below
+![Model SHAP Values](https://github.com/amittal-tcd/TCD-work/blob/master/Text%20Analytics/Step2%20-%20Model%20Improvement%20and%20Feature%20Importances/Results/Summary%20100%20Features.png)
